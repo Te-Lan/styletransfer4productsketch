@@ -1,4 +1,6 @@
-# airformedia_miniproject
+# Style Transfer: Rendered Effect On Product Design Raw Sketch Image
+
+Transfer raw sketches of product design into greyscale rendered style (white model).
 
 Project Report:
 
