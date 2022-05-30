@@ -2,9 +2,9 @@
 
 *A project from AI4Media course(IU000133) in UAL Creative Computing Institute.*
 
-
-
 ### Transfer raw sketches of product design into greyscale rendered style (white model).
+
+![image](https://github.com/Te-Lan/styletransfer4productsketch/blob/main/train%26val_example.png)
 
 ### Project Report:
 
